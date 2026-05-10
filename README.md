@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tritio-jatra/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Tritio Jatra](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tritio-jatra/) |
+| **Get License** | [Commercial Licensing for Tritio Jatra](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tritio-jatra/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `85a6a1ed123b4f33fa1085714bd40a9052dd15771654bcf9504cdd87b35bc83f` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
