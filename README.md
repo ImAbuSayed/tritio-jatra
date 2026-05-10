@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tritio-jatra/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Tritio Jatra](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tritio-jatra/) |
+| **Get License** | [Get a Licensing Quote for Tritio Jatra](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tritio-jatra/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা এক রাতের ঘোরে খুঁজছি তোমার ছায়া
+> বুকের ভেতর জমছে শুধু অনন্ত এক মায়া
+> শুকনো পাতার শব্দে শুনি তোমার নীরব ডাক
+> এই হৃদয়ে তোমার স্মৃতি অমলিন হয়ে থাক
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
